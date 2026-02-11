@@ -18,6 +18,9 @@ I utilized Python with Pandas and Matplotlib for data processing and visualizati
 * **Visualization**: Built custom dual axis charts to overlay economic shocks against market performance.
 
 ### Data Sources
-* **Car Sales Data**: Statistics Canada Table 20 10 0085 01.
-* **Interest Rates**: Bank of Canada Series V39079.
-* **Inflation CPI**: Statistics Canada Table 18 10 0004 01.
+* **Car Sales Data**
+[Statistics Canada Table 20 10 0085 01](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=2010008501)
+* **Interest Rates**
+[Bank of Canada Series V39079](https://www.bankofcanada.ca/rates/interest-rates/canadian-interest-rates/)
+* **Inflation CPI**
+[Statistics Canada Table 18 10 0004 01](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1810000401)
